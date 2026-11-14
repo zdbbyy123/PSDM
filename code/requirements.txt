@@ -1,0 +1,4 @@
+# Python 3.12, 64-bit
+numpy==2.5.0
+scipy==1.18.0
+lightgbm==4.3.0
